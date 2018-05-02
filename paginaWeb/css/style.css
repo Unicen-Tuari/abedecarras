@@ -1,0 +1,136 @@
+header div.content {
+  /*position: fixed!important;*/
+  float: none;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0 110px 0 130px;
+  width: 1110px;
+  /*height: 25%;*/
+}
+
+header div {
+  top: 0%;
+  position: fixed;
+  background-color: rgb(78, 61, 24);
+  color: #666666;
+}
+
+header span.logo {
+  background: url(../images/logo.png) no-repeat 0px 0px;
+  background-size: 75px 75px;
+  width: 75px;
+  height: 75px;
+  float: left;
+  margin: 0px 0px;
+}
+
+.navigation {
+  position: relative;
+  list-style: none;
+  float: right;
+}
+
+header ul.navigation li {
+  float: left;
+  padding: 3px 30px;
+  text-align: center;
+  cursor: pointer;
+  width: 20%;
+}
+
+a  {
+  color: rgb(191, 191, 191);
+  font-family: 'Titan One', cursive;
+  text-decoration: none;
+  padding: 5px;
+  margin-top: 5%;
+}
+
+a:hover {
+  color: white;
+}
+
+.titulo {
+  /*position: relative;*/
+  margin-top: 9%;
+  text-align: center;
+  background-color: orange;
+}
+
+h1 {
+  color: #ffffff;
+  font-style: italic;
+  text-transform: capitalize;
+  /*text-decoration: underline;*/
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 40px;
+}
+
+.title-container {
+  margin-top: 2%;
+  margin-left: 13%;
+  width: 1000px!important;
+  height: 250px!important;
+  background-color: black;
+  text-align: center;
+  overflow: hidden;
+  width: 50%;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border: none;
+}
+
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  color: grey;
+  font-family: 'Hi Melody', cursive;
+  text-align: center;
+}
+
+hr {
+  color: rgb(242, 112, 8) !important;
+  background-color: rgb(242, 112, 8) !important;
+  height: 5px;
+  border-color: rgb(242, 112, 8);
+}
+
+body {
+  background-color: rgb(240, 225, 25);
+  margin: 0px;
+}
+
+.listas {
+  float: left;
+  text-align: center;
+  margin-left:5%;
+}
+
+li {
+  font-size: 1.5rem;
+  font-family: 'Bitter', serif;
+  font-weight: bold;
+}
+
+label {
+
+  font-size: 2rem;
+  font-family: 'Patua One', cursive;
+  color: rgb(156, 43, 255);
+}
+
+.resaltar {
+  text-align: center;
+  border: 1px solid red;
+  width: 50%;
+  color: rgba(247, 0, 126, 0.97);
+  font-size: 2.5rem;
+  font-family: 'Skranji', cursive;
+}

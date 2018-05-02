@@ -1,0 +1,9 @@
+2 2 4 3
+
+Variaciones de selección: seleccionandolo de una lista seleccionable.
+
+Cantidad de casilleros: 5 casilleros.
+
+Variaciones generación tablero: La probabilidad de que haya una marca en la última posición es de 0.8 (sólo en la última).
+
+Otras: Cada partida se inserta en una tabla con las columnas “número de partida” y “resultado” (cantidad de aciertos/cantidad de errores).
